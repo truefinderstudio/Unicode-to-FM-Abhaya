@@ -1,18 +1,17 @@
 /* Define the input font */
 @font-face {
     font-family: 'InputFont';
-    src: url('https://unicode-to-fm-abhaya.truefinderstudio.com/fonts/NotoSansSinhala.woff2') format('woff2'),
-         url('https://unicode-to-fm-abhaya.truefinderstudio.com/fonts/NotoSansSinhala.woff') format('woff');
+    src: url('https://fm-abhaya-to-unicode.truefinderstudio.com/fonts/FMAbhaya.woff2') format('woff2'),
+         url('https://fm-abhaya-to-unicode.truefinderstudio.com/fonts/FMAbhaya.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
-
 /* Define the output font */
 @font-face {
     font-family: 'OutputFont';
-    src: url('https://unicode-to-fm-abhaya.truefinderstudio.com/fonts/FMAbhaya.woff2') format('woff2'),
-         url('https://unicode-to-fm-abhaya.truefinderstudio.com/fonts/FMAbhaya.woff') format('woff');
+    src: url('https://fm-abhaya-to-unicode.truefinderstudio.com/fonts/NotoSansSinhala.woff2') format('woff2'),
+         url('https://fm-abhaya-to-unicode.truefinderstudio.com/fonts/NotoSansSinhala.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
